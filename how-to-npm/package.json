@@ -1,0 +1,23 @@
+{
+  "name": "@dimitris/how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "dimitris",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitris-N-sideris/test-repository.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dimitris-N-sideris/test-repository/issues"
+  },
+  "homepage": "https://github.com/Dimitris-N-sideris/test-repository#readme",
+  "description": "",
+  "dependencies": {}
+}
